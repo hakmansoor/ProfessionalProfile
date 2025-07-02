@@ -19,11 +19,11 @@ title: Hakmansoor # the main title
 tagline: GrEaT MiNdS dIscUs IdEaS # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Mansoor Abdulhak is a dedicated educator and software engineering faculty member who sees his role as a catalyst for growth. With over a decade of teaching experience, he designs transformative learning experiences that blend tehchnical depth with real-world relevance. His passion lies in helping students and colleagues become stronger, more capable versions of themselves through structured challenges, collaborative thinking, and continuous reflection..
+  Mansoor Abdulhak is a dedicated educator and software engineering faculty member who sees his role as a catalyst for growth. With over a decade of teaching experience, he designs transformative learning experiences that blend technical depth with real-world relevance. His passion lies in helping students and colleagues become stronger, more capable versions of themselves through structured challenges, collaborative thinking, and continuous reflection..
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://hakmansoor.github.io"
 
 github:
   username: hakmansoor # change to your GitHub username
@@ -38,11 +38,11 @@ social:
   email: hakmansoor@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/hakmansoor # change to your GitHub homepage
+    - https://www.linkedin.com/in/hakmansoor
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/hakmansoor
+    # - https://twitter.com/username # change to your Twitter homepage
 
 # Site Verification Settings
 webmaster_verifications:
@@ -119,10 +119,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo: "hakmansoor/ProfessionalProfile" # <gh-username>/<repo>
+    repo_id: "R_kgDOPBEUkA"
+    category: "General"
+    category_id: "DIC_kwDOPBEUkM4CsbtZ"
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
@@ -150,7 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "/ProfessionalProfile"
 
 # ------------ The following options are not recommended to be modified ------------------
 
