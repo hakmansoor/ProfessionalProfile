@@ -3,7 +3,7 @@ layout: post
 title: Professional Summary 2015–2018
 date: 2015-09-15 00:00 +0000
 categories: [Teaching Exp, SENIOR LECTURER]
-tags: [teaching experienc, senior lecturer]
+tags: [teaching experience, senior lecturer]
 ---
 **Company:** Universiti Malaysia Pahang, Malaysia  
 **Role:** Junior Developer  

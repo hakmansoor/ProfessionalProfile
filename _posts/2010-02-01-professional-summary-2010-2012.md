@@ -3,7 +3,7 @@ layout: post
 title:  "Professional Summary 2010–2014"
 date:   2010-02-01 00:00:00 +0000
 categories: [Teaching Exp, LECTURER]
-tags: [teaching experienc, lecturer]
+tags: [teaching experience, lecturer]
 ---
 
 **Company:** University Malaya, Malaysia  
