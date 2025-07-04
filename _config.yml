@@ -38,10 +38,11 @@ social:
   email: hakmansoor@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/hakmansoor # change to your GitHub homepage
+    - https://hakmansoor.github.io/ProfessionalProfile/
     - https://www.linkedin.com/in/hakmansoor
+    - https://github.com/hakmansoor # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    # 
     # - https://twitter.com/username # change to your Twitter homepage
 
 # Site Verification Settings
