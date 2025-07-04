@@ -7,8 +7,8 @@ tags: [teaching experience, senior lecturer]
 comments: false
 ---
 **Company:** Universiti Malaysia Pahang, Malaysia  
-**Role:** Junior Developer  
-**Period:** August 1997 – January 2001
+**Role:** SENIOR LECTURER, Software Engineering Department  
+**Period:** Sep 2015 – Sep 2018  
 
 - Supervised junior lecturers' course development and recommended refinements to enhance student learning.
 - Evaluated and revised lesson plans and course content to achieve student-centered learning.
