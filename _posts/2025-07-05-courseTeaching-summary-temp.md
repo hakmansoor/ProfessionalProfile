@@ -30,8 +30,13 @@ Brief overview of the main teaching goals for this run of the course.
 
 ## Assessment & Student Engagement
 
-- **Assessment Methods:** (quizzes, projects, participation, etc.)
 - **Strategies for Engagement:** (discussions, group work, etc.)
+-| **Assessment Methods**     | **Weighting**                | Duration |
+|-----------|----------------------|----------|
+| Quizzes  | 10%         | 1 week   |
+| Assignment  | 30%    | 2 weeks  |
+| Project  | 30%  | 1 week   |
+| Exam  | 30%  | 1 week   |
 
 ---
 

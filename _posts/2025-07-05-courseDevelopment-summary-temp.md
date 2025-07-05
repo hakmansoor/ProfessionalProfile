@@ -13,6 +13,13 @@ A brief description of the course, its purpose, and who it’s for.
 
 ---
 
+## Origin & Inspiration
+
+This course was developed based on the structure and content of [Original Course Name] offered by [Institution/Instructor, if applicable].  
+Key adaptations and enhancements were made to better suit [your audience, context, or objectives]
+
+---
+
 ## Development Timeline
 
 - **Idea Initiated:** [Date]
@@ -50,5 +57,5 @@ A brief description of the course, its purpose, and who it’s for.
 ---
 
 ## Future Improvements
-
+**Idea:**
 Ideas for updating or enhancing the course in the future.
