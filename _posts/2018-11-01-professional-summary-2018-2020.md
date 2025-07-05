@@ -2,7 +2,7 @@
 layout: post
 title: Professional Summary 2018–2020
 date: 2018-11-01 00:00 +0000
-categories: [Teaching Exp, ASSISTANT PROFESSOR]
+categories: [Teaching Experience, ASSISTANT PROFESSOR]
 tags: [teaching experience, assistant professor]
 comments: false
 ---

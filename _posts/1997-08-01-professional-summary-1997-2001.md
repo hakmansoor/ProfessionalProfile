@@ -2,7 +2,7 @@
 layout: post
 title:  "Professional Summary 1997–2001"
 date:   1997-08-01 00:00:00 +0000
-categories: [Teaching Exp, Teacher]
+categories: [Teaching Experience, TEACHER]
 tags: [teaching experience, teacher]
 comments: false
 ---

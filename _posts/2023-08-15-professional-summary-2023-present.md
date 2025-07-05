@@ -2,7 +2,7 @@
 layout: post
 title: Professional Summary 2023–present
 date: 2023-08-15 00:00 +0000
-categories: [Teaching Exp, ASSISTANT PROFESSOR]
+categories: [Teaching Experience, ASSISTANT PROFESSOR]
 tags: [teaching experience, assistant professor, online]
 comments: false
 ---
